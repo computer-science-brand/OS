@@ -1,0 +1,40 @@
+{
+    "id": "y2k_premium_t-shirt_oversize",
+    "header": "Футболка Y2K OVERSIZE",
+    "details": "Футболка oversize с графиком переполнения памяти, времени катастрофы в формате ISO и фразы HERE WE GO AGAIN из культовой игры GTA.",
+    "sizes": [
+        "S",
+        "L",
+        "XL",
+        "XXL"
+    ],
+    "colors": [
+        "#000000",
+        "#FFFFFF"
+    ],
+    "density": 240,
+    "materials": [
+        "хлопок",
+        "лайкра"
+    ],
+    "careInstructions": [
+        "стирать в воде до 30 С",
+        "гладить до 110 С",
+        "барабанная сушка запрещена",
+        "не отбеливать",
+        "горизонтальная сушка"
+    ],
+    "availability": "предзаказ",
+    "discount": 0,
+    "relatedProducts": [],
+    "collection": "OS",
+    "model": "Y2K",
+    "price": 4900,
+    "tags": ["oversize", "premium"],
+    "image": "https://raw.githubusercontent.com/computer-science-brand/OS/refs/heads/y2k/products/y2k_premium_t-shirt_oversize/y2k_premium_t-shirt_oversize_1.webp",
+    "images": [
+        "https://raw.githubusercontent.com/computer-science-brand/OS/refs/heads/y2k/products/y2k_premium_t-shirt_oversize/y2k_premium_t-shirt_oversize_1.webp",
+        "https://raw.githubusercontent.com/computer-science-brand/OS/refs/heads/y2k/products/y2k_premium_t-shirt_oversize/y2k_premium_t-shirt_oversize_2.webp",
+        "https://raw.githubusercontent.com/computer-science-brand/OS/refs/heads/y2k/products/y2k_premium_t-shirt_oversize/y2k_premium_t-shirt_oversize_3.webp"
+    ]
+}
