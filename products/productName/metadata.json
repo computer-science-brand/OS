@@ -3,6 +3,11 @@
     "header": null,
     "details": null,
     "sizes": [],
+    "sizeGrid": [
+        [],
+        [],
+        []
+    ],
     "colors": [],
     "density": null,
     "materials": [],
