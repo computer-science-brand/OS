@@ -1,0 +1,51 @@
+{
+    "id": "permissions_premium_t-shirt_oversize",
+    "header": "Футболка permissions OVERSIZE",
+    "details": "Футболка oversize премиального качества из 95% хлопка (240 г/м²). Принт представляет собой философскую интерпретацию прав доступа ОС семейства UNIX, превращая их в метафору личных границ. r — читать, w — писать, x — действовать. Три блока символов — это ваши права на себя, свой круг и мир вокруг. Принт персонализирован, вы сами выбираете, кем являетесь. Удобный oversize-крой, плотная ткань френч терри и строгий философский подтекст делают эту футболку идеальной для индивидуумов.",
+    "sizes": [
+        "S",
+        "L",
+        "XL",
+        "XXL"
+    ],
+    "sizeGrid": [
+        ["A", 61, 64, 67, 71],
+        ["B", 73, 73, 77, 79],
+        ["C", 42, 42, 44, 45]
+    ],
+    "colors": [
+        "#FFFFFF",
+        "#000000"
+    ],
+    "density": 240,
+    "materials": [
+        "хлопок",
+        "лайкра"
+    ],
+    "careInstructions": [
+        "стирать в воде до 30 С",
+        "гладить до 110 С",
+        "барабанная сушка запрещена",
+        "не отбеливать",
+        "горизонтальная сушка"
+    ],
+    "availability": "предзаказ",
+    "discount": 10,
+    "relatedProducts": [],
+    "collection": "OS",
+    "model": "permissions",
+    "price": 4900,
+    "tags": [
+        "custom",
+        "random",
+        "oversize",
+        "premium"
+    ],
+    "image": "https://raw.githubusercontent.com/computer-science-brand/OS/refs/heads/permissions/products/permissions_premium_t-shirt_oversize/permissions_premium_t-shirt_oversize_1.png",
+    "images": [
+        "https://raw.githubusercontent.com/computer-science-brand/OS/refs/heads/permissions/products/permissions_premium_t-shirt_oversize/permissions_premium_t-shirt_oversize_1.png",
+        "https://raw.githubusercontent.com/computer-science-brand/OS/refs/heads/permissions/products/permissions_premium_t-shirt_oversize/permissions_premium_t-shirt_oversize_2.png",
+        "https://raw.githubusercontent.com/computer-science-brand/OS/refs/heads/permissions/products/permissions_premium_t-shirt_oversize/permissions_premium_t-shirt_oversize_3.png",
+        "https://raw.githubusercontent.com/computer-science-brand/OS/refs/heads/permissions/products/permissions_premium_t-shirt_oversize/permissions_premium_t-shirt_oversize_4.png"
+    ]
+}
