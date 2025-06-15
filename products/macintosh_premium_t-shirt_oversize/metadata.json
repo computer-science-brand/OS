@@ -1,0 +1,46 @@
+{
+    "id": "macintosh_premium_t-shirt_oversize",
+    "header": "Футболка macintosh OVERSIZE",
+    "details": "Футболка oversize премиального качества из 95% хлопка (240 г/м²). На передней стороне — историческая надпись, принадлежащая первому успешному персональному компьютеру — Macintosh. С того дня и по сей день компания Apple остается пионером в области дизайна интерфейсов. Принт выполнен в минималистичном стиле, сочетая в себе элементы ретро и современного взгляда. Эта футболка подойдет каждому, кто в первую очередь создает будущее для Людей.",
+    "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "sizeGrid": [
+        ["A", 61, 64, 67, 71],
+        ["B", 73, 73, 77, 79],
+        ["C", 42, 42, 44, 45]
+    ],
+    "colors": [
+        "#000000",
+        "#FFFFFF"
+    ],
+    "density": 240,
+    "materials": [
+        "хлопок",
+        "лайкра"
+    ],
+    "careInstructions": [
+        "стирать в воде до 30 С",
+        "гладить до 110 С",
+        "барабанная сушка запрещена",
+        "не отбеливать",
+        "горизонтальная сушка"
+    ],
+    "availability": "предзаказ",
+    "discount": 0,
+    "relatedProducts": [],
+    "collection": "OS",
+    "model": "gui",
+    "price": 4900,
+    "tags": ["oversize", "premium"],
+    "image": "https://raw.githubusercontent.com/computer-science-brand/OS/refs/heads/gui/products/macintosh_premium_t-shirt_oversize/macintosh_premium_t-shirt_oversize_1.png",
+    "images": [
+        "https://raw.githubusercontent.com/computer-science-brand/OS/refs/heads/gui/products/macintosh_premium_t-shirt_oversize/macintosh_premium_t-shirt_oversize_1.png",
+        "https://raw.githubusercontent.com/computer-science-brand/OS/refs/heads/gui/products/macintosh_premium_t-shirt_oversize/macintosh_premium_t-shirt_oversize_2.png",
+        "https://raw.githubusercontent.com/computer-science-brand/OS/refs/heads/gui/products/macintosh_premium_t-shirt_oversize/macintosh_premium_t-shirt_oversize_3.png",
+        "https://raw.githubusercontent.com/computer-science-brand/OS/refs/heads/gui/products/macintosh_premium_t-shirt_oversize/macintosh_premium_t-shirt_oversize_4.png"
+    ]
+}
